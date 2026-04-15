@@ -660,4 +660,6 @@ For more information and advanced usage, visit the [Atlex documentation](https:/
 
 ## License
 
-MIT © [Karen Hamazaspyan](https://github.com/khamazaspyan)
+## MIT © [Karen Hamazaspyan](https://github.com/khamazaspyan)
+
+Part of [Atlex](https://atlex.dev) — A modern framework for Node.js.

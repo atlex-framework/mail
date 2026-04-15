@@ -11,8 +11,26 @@
   "keywords": [
     "atlex",
     "mail",
-    "typescript",
-    "email"
+    "email",
+    "mailer",
+    "email-sender",
+    "smtp",
+    "mailgun",
+    "ses",
+    "amazon-ses",
+    "email-templates",
+    "email-builder",
+    "fluent-mail",
+    "transactional-email",
+    "html-email",
+    "nodemailer-alternative",
+    "nodemailer",
+    "laravel-mail",
+    "laravel-mailables",
+    "laravel-alternative",
+    "nodejs",
+    "javascript",
+    "typescript"
   ],
   "engines": {
     "node": ">=20"
