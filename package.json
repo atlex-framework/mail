@@ -1,6 +1,6 @@
 {
   "name": "@atlex/mail",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Mailables and mail transports for Atlex",
   "type": "module",
   "license": "MIT",
