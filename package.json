@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atlex-framework/atlex-monorepo.git",
+    "url": "git+https://github.com/atlex-framework/mail.git",
     "directory": "packages/mail"
   },
   "homepage": "https://atlex.dev",
   "bugs": {
-    "url": "https://github.com/atlex-framework/atlex-monorepo/issues"
+    "url": "https://github.com/atlex-framework/mail/issues"
   },
   "publishConfig": {
     "access": "public"
