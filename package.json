@@ -1,6 +1,6 @@
 {
   "name": "@atlex/mail",
-  "version": "0.1.11",
+  "version": "0.2.0",
   "description": "Mailables and mail transports for Atlex",
   "type": "module",
   "license": "MIT",
@@ -77,18 +77,18 @@
     }
   },
   "peerDependencies": {
-    "@atlex/core": "workspace:*",
-    "@atlex/queue": "workspace:*"
+    "@atlex/core": "workspace:>=0.2.0",
+    "@atlex/queue": "workspace:>=0.2.0"
   },
   "dependencies": {
     "@atlex/core": "workspace:*",
     "@atlex/queue": "workspace:*",
     "@aws-sdk/client-ses": "^3.0.0",
     "marked": "^16.1.1",
-    "nodemailer": "^6.9.0"
+    "nodemailer": "^8.0.7"
   },
   "devDependencies": {
-    "@types/nodemailer": "^6.4.0",
+    "@types/nodemailer": "^8.0.0",
     "tsup": "^8.5.0",
     "typescript": "^5.0.0",
     "vitest": "^3.2.4"
