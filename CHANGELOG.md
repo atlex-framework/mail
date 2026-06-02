@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.2.1
+
+### Patch Changes
+
+- 1256d74: Update orm, add time()
+- Updated dependencies [1256d74]
+  - @atlex/core@0.2.1
+  - @atlex/queue@0.2.1
+
 ## 0.2.0
 
 ### Minor Changes
